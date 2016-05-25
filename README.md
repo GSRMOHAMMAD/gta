@@ -9,7 +9,7 @@
 
 TeleSeed !
 
-**Table of Contents**
+**لیست **
 - [install](#install)
 - [anti crash](#run by anti crash)
 
