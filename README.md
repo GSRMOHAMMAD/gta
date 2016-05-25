@@ -35,7 +35,7 @@ cd taylor-bot
 #run by anti crash
 
 <code>
-bash taylor.sh
+bash start.sh
 </code>
 
 #**updating soon** ...
