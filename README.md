@@ -15,6 +15,7 @@ TeleSeed !
 - [install](#install)
 - [anti crash](#run-by-anti-crash)
 - [Run self mode](#run-self-mode)
+- [install figlet plugin](#figlet)
 
 
 ## تشکر از 
@@ -44,6 +45,13 @@ bash start.sh
 ```sh
 sudo chmod +x selflaunch.sh
 ./selflaunch.sh
+```
+
+#figlet
+
+```sh
+$ sudo apt-get install figlet
+$ figlet
 ```
 
 #**updating v5 soon** ...
