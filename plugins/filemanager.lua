@@ -1,14 +1,4 @@
--- By AviraTeam https://telegram.me/avirateam
--- Devloper : MohammadArak https://telegram.me/mohammadarak
--- Bot ID: @avirabot
---      /\  \\        // ||  //------\\        /\
---     //\\  \\      //  || ||       ||       //\\
---    //__\\  \\    //   || ||______//       //__\\
---   //____\\  \\  //    || ||      \\      //____\\
---  //      \\  \\//     || ||       \\    //      \\
--- //        \\  \/      || ||        \\  //        \\
-
--- Base folder
+-- by negative
 local BASE_FOLDER = "/"
 local folder = ""
 
@@ -69,17 +59,6 @@ function run(msg, matches)
             local action = io.popen('cd "' .. BASE_FOLDER .. folder .. '" && rmdir \'' .. matches[2] .. '\''):read("*all")
             return '❌ پوشه حذف شد'
         end
-        
--- By AviraTeam https://telegram.me/avirateam
--- Devloper : MohammadArak https://telegram.me/mohammadarak
--- Bot ID: @avirabot
---      /\  \\        // ||  //------\\        /\
---     //\\  \\      //  || ||       ||       //\\
---    //__\\  \\    //   || ||______//       //__\\
---   //____\\  \\  //    || ||      \\      //____\\
---  //      \\  \\//     || ||       \\    //      \\
--- //        \\  \/      || ||        \\  //        \\
-
 
         if matches[1]:lower() == 'touch' and matches[2] then
             local action = io.popen('cd "' .. BASE_FOLDER .. folder .. '" && touch \'' .. matches[2] .. '\''):read("*all")
@@ -161,13 +140,3 @@ return {
     run = run,
     min_rank = 5
 }
-
--- By AviraTeam https://telegram.me/avirateam
--- Devloper : MohammadArak https://telegram.me/mohammadarak
--- Bot ID: @avirabot
---      /\  \\        // ||  //------\\        /\
---     //\\  \\      //  || ||       ||       //\\
---    //__\\  \\    //   || ||______//       //__\\
---   //____\\  \\  //    || ||      \\      //____\\
---  //      \\  \\//     || ||       \\    //      \\
--- //        \\  \/      || ||        \\  //        \\
