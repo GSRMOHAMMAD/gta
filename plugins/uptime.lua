@@ -7,7 +7,7 @@ text = io.popen("uptime"):read('*all')
 end
 return {
   patterns = {
-    "^uptime$"
+    "^[!/#]([Uu]ptime)$"
   },
   run = run,
   moderated = true
