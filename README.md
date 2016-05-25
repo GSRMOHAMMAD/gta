@@ -11,7 +11,7 @@ TeleSeed !
 
 **لیست **
 - [install](#install)
-- [anti crash](#run by anti crash)
+- [anti crash](#run-by-anti-crash)
 
 
 ## تشکر از 
