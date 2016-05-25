@@ -31,3 +31,5 @@ cd taylor-bot
 <code>
 bash taylor.sh
 </code>
+
+#**updating soon**
