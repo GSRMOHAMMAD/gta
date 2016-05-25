@@ -26,3 +26,8 @@ cd taylor-bot
 ./launch.sh install 
 ./launch.sh # add phone
 ```
+#run by anti crash
+
+<code>
+bash taylor.sh
+</code>
