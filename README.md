@@ -9,6 +9,8 @@
 
 TeleSeed !
 
+به ما ستاره بدهید .
+
 **لیست **
 - [install](#install)
 - [anti crash](#run-by-anti-crash)
