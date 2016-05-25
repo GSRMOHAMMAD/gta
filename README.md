@@ -32,10 +32,16 @@ cd taylor-bot
 ./launch.sh install 
 ./launch.sh # add phone
 ```
-#run by anti crash
+#Run by anti crash
 
 <code>
 bash start.sh
 </code>
+
+#Run Self mode
+
+```sh
+sudo chmod +x selflaunch.sh
+./selflaunch.sh
 
 #**updating soon** ...
