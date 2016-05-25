@@ -9,6 +9,10 @@
 
 TeleSeed !
 
+**Table of Contents**
+- [install](#install)
+- [anti crash](#run by anti crash)
+
 
 ## تشکر از 
 [@MrJacki](https://telegram.me/MrJacki)
