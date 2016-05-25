@@ -14,6 +14,7 @@ TeleSeed !
 **لیست **
 - [install](#install)
 - [anti crash](#run-by-anti-crash)
+- [Run self mode](#run-self-mode)
 
 
 ## تشکر از 
