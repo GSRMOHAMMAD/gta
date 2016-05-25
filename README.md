@@ -32,4 +32,4 @@ cd taylor-bot
 bash taylor.sh
 </code>
 
-#**updating soon**
+#**updating soon** ...
