@@ -43,5 +43,6 @@ bash start.sh
 ```sh
 sudo chmod +x selflaunch.sh
 ./selflaunch.sh
+```
 
 #**updating soon** ...
