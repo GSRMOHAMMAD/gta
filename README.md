@@ -68,3 +68,5 @@ $ figlet
 **infome**
 
 **voice**
+
+**translate.lua**
