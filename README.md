@@ -55,3 +55,16 @@ $ figlet
 ```
 
 #**updating v5 soon** ...
+
+
+اپدیت 6 خرداد .
+
+**weather**
+
+**bin**
+
+**info**
+
+**infome**
+
+**voice**
