@@ -249,7 +249,7 @@ function create_config( )
     channel : 
     
     
-    @taylor Team ❤️
+    @taylor_Team ❤️
 ]],
     help_text_realm = [[
 Realm Commands:
