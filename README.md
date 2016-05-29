@@ -54,7 +54,7 @@ $ sudo apt-get install figlet
 $ figlet
 ```
 
-#**updating v5 soon** ...
+#**updating v5**
 
 
 اپدیت 6 خرداد .
@@ -72,3 +72,13 @@ $ figlet
 **translate.lua**
 
 **abjad**
+
+
+##Run Api Telegram bot 
+
+```sh
+cd taylor-bot
+chmod +x apilaunch.sh
+cd 
+rm -rf .telegram-cli
+./apilaunch.sh # add token hash
