@@ -40,7 +40,7 @@ echo -e "\e[32m"
 # Suboptions spanish
 read VAR
 if [ "$VAR" = 1 ]; then
-	tmux new-session -s script "bash steady.sh -t" 
+	tmux new-session -s script "bash taylor.sh -t" 
 elif [ "$VAR" = 2 ]; then
 	tmux attach-session -t DBTeam
 elif [ "$VAR" = 3 ]; then
@@ -173,7 +173,7 @@ echo -e "\e[32m"
 # options
 read VAR
 if [ "$VAR" = 1 ]; then
-	tmux new-session -s script "bash steady.sh -t" 
+	tmux new-session -s script "bash taylor.sh -t" 
 elif [ "$VAR" = 2 ]; then
 	tmux attach-session -t DBTeam
 elif [ "$VAR" = 3 ]; then
@@ -191,7 +191,7 @@ elif [ "$VAR" = 5 ]; then
 	clear
 	killall tmux
 	read -n1 -r -p 'Press any key to continue...' 
-	tmux new-session -s script "bash steady.sh -t" 
+	tmux new-session -s script "bash taylor.sh -t" 
 elif [ "$VAR" = 6 ]; then
 	clear
 	git pull
@@ -308,7 +308,7 @@ echo -e "\e[32m"
 # Suboptions portuguese
 read VAR
 if [ "$VAR" = 1 ]; then
-	tmux new-session -s script "bash steady.sh -t" 
+	tmux new-session -s script "bash taylor.sh -t" 
 elif [ "$VAR" = 2 ]; then
 	tmux attach-session -t DBTeam
 elif [ "$VAR" = 3 ]; then
