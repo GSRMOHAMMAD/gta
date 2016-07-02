@@ -602,7 +602,7 @@ Returns group logs
 
 *Only moderators and owner can use block, ban, unban, newlink, link, setphoto, setname, lock, unlock, setrules, setabout and settings commands
 
-*Only owner can use res, setowner, promote, demote, and log commands
+*Only owner can use res, setowner, promote, demote, and log commands  @angry_poker  vs   @poker_api
 
 ]],
   }
