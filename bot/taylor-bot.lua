@@ -235,21 +235,21 @@ function create_config( )
     },
     sudo_users = {90516804,172561830},--Sudo users
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Taylor Team v4
-    Taylor Team and Taylor Bot Anti spam / anti link
+    about_text = [[FORCE Team v3
+    force Team and force Bot Anti spam / anti link / anti ads
     
     website : 
-    taylortg.ir  ❤️
+    no webs bots 😐
     
-    admin : 
+    sudo  : 
     
-    @negative_officiall ❤️
+    @ANGRY_POKER  ❤️
     
     
     channel : 
     
     
-    @taylor_Team ❤️
+    @FORCETG ❤️
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -460,7 +460,7 @@ will return group ban list
 
 *Only moderators and owner can use kick,ban,unban,newlink,link,setphoto,setname,lock,unlock,set rules,set about and settings commands
 
-*Only owner can use res,setowner,promote,demote and log commands
+*Only owner can use res,setowner,promote,demote and log commands @angry_poker vs  @poker_api 😊
 
 ]],
 	help_text_super =[[
@@ -602,7 +602,7 @@ Returns group logs
 
 *Only moderators and owner can use block, ban, unban, newlink, link, setphoto, setname, lock, unlock, setrules, setabout and settings commands
 
-*Only owner can use res, setowner, promote, demote, and log commands  @angry_poker  vs   @poker_api
+*Only owner can use res, setowner, promote, demote, and log commands  @angry_poker  vs   @poker_api 😊
 
 ]],
   }
